@@ -13,3 +13,20 @@ https://github.com/ivmm/Student-resources
 
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 https://github.com/lubrother/DeepLearning-500-questions
+
+100-Days-Of-ML-Code
+中文翻译版https://github.com/MLEveryday/100-Days-Of-ML-Code
+英语原版https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
+浙江大学课程攻略共享计划
+https://github.com/QSCTech/zju-icicles
+
+清华大学计算机系课程攻略 
+https://github.com/PKUanonym/REKCARC-TSC-UHT
+
+北京大学课程资料整理
+https://github.com/lib-pku/libpku
+
+中国科学技术大学课程资源
+https://github.com/USTC-Resource/USTC-Course
+
