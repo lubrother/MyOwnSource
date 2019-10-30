@@ -30,3 +30,5 @@ https://github.com/lib-pku/libpku
 中国科学技术大学课程资源
 https://github.com/USTC-Resource/USTC-Course
 
+这个项目主要包括两部分内容：一是各种算法的基本原理讲解，二是各种算法的代码实现
+https://github.com/TheAlgorithms/Python
