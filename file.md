@@ -18,6 +18,12 @@ https://github.com/lubrother/DeepLearning-500-questions
 中文翻译版https://github.com/MLEveryday/100-Days-Of-ML-Code
 英语原版https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
+deeplearningbook-chinese 花书中译版项目 
+花书介绍作者： 【美】Ian Goodfellow（伊恩·古德费洛） ,【加】Yoshua Bengio（约书亚·本吉奥） ,【加】Aaron Courville（亚伦·库维尔）
+译者： 赵申剑 ,黎彧君 ,李凯 ,符天凡《[深度学习](https://www.epubit.com/bookDetails?id=N8263)》
+https://github.com/exacity/deeplearningbook-chinese
+
+
 浙江大学课程攻略共享计划
 https://github.com/QSCTech/zju-icicles
 
