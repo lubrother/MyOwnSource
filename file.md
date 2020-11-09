@@ -41,3 +41,6 @@ https://github.com/TheAlgorithms/Python
 
 从头学ML，项目展示ML的内在运行原理
 https://github.com/eriklindernoren/ML-From-Scratch
+
+上千本各类编程书籍，C,C++,Java,Python，机器学习,深度学习,Linux等等
+https://github.com/XiangLinPro/IT_book
