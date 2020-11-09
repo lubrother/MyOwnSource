@@ -44,3 +44,6 @@ https://github.com/eriklindernoren/ML-From-Scratch
 
 上千本各类编程书籍，C,C++,Java,Python，机器学习,深度学习,Linux等等
 https://github.com/XiangLinPro/IT_book
+
+东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 
+https://github.com/geekxh/hello-algorithm
