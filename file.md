@@ -47,3 +47,9 @@ https://github.com/XiangLinPro/IT_book
 
 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 
 https://github.com/geekxh/hello-algorithm
+
+南瓜书PumpkinBook  《机器学习》（西瓜书）公式推导解析
+https://github.com/datawhalechina/pumpkin-book
+
+
+
